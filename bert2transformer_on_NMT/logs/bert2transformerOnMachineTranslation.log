@@ -1,0 +1,5 @@
+2022-04-02 18:32:58,466 - INFO - Using ctx: cpu(0)
+2022-04-02 18:33:00,947 - INFO - Model Creating Completed.
+2022-04-02 18:33:01,321 - INFO - Parameters Initing and Loading Completed
+2022-04-02 18:33:12,218 - INFO - Data Loading Completed
+2022-04-02 18:33:12,224 - INFO - ## Trainning Start ##
