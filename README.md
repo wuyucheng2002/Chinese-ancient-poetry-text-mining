@@ -24,7 +24,8 @@
 ## 前端开发推荐学习网站
 
 - B站入门课程：https://www.bilibili.com/video/BV1QW411N762
-- 网页模板网站：https://cool.mfdemo.cn/cp/1/industry/41 （不能下载源码，但是网页设计比较新颖好看）；http://www.cssmoban.com（一般都有源代码，可以下载下来借鉴学习）
+- 网页模板网站（不能下载源码，但是网页设计比较新颖好看）：https://cool.mfdemo.cn/cp/1/industry/41
+- 网页模板网站（一般都有源代码，可以下载下来借鉴学习）：http://www.cssmoban.com
 - https://man.ilovefishc.com
 - https://www.runoob.com
 - https://www.php.cn
