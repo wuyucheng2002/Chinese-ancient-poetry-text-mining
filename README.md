@@ -13,11 +13,11 @@
 
 **参考博客：**
 
-- 《万字长文！用文本挖掘深度剖析54万首诗歌》https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/108191211
+- [万字长文！用文本挖掘深度剖析54万首诗歌](https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/108191211)
 
-- 《gensim中word2vec使用》https://blog.csdn.net/u010700066/article/details/83070102
+- [gensim中word2vec使用](https://blog.csdn.net/u010700066/article/details/83070102)
 
-- 《最小熵原理（五）：“层层递进”之社区发现与聚类》https://kexue.fm/archives/7006
+- [最小熵原理（五）：“层层递进”之社区发现与聚类](https://kexue.fm/archives/7006)
 
 
 
