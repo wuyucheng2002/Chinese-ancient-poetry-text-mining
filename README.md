@@ -8,7 +8,7 @@
 - GPT2-Chinese-old_gpt_2：GPT2实现藏头诗生成，含训练好的模型，可以输入格律、风格和藏头字，自动生成藏头诗，主要参考https://github.com/Morizeyao/GPT2-Chinese
 - bert2transformer_on_NMT：Bert实现翻译模型，含训练好的模型，输入文言文或者古诗词，会自动生成相应的白话文翻译，主要参考https://github.com/rjk-git/bert2transformer_on_NMT
 
-由于github文件大小限制，仓库里主要包含代码文件，数据和模型文件存于百度网盘（链接: https://pan.baidu.com/s/1ExaqJ4O35MZP-EQrgoFCIA 提取码: hg5j）
+由于github文件大小限制，仓库里主要包含代码文件，完整的代码、所有数据和训练好的模型文件存于百度网盘（链接: https://pan.baidu.com/s/1ExaqJ4O35MZP-EQrgoFCIA 提取码: hg5j）
 
 ## 机器学习部分参考代码和资料
 
